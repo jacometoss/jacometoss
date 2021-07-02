@@ -6,9 +6,11 @@ En esta sección encontrarás todos los repositorios en los que trabajo constant
 
 La vida es como una batería y en cada momento uno va perdiendo una pequeña parte de esta cada día, puedes apoyarme en el desarrollo de este proyecto y motivar aún más mi creatividad para que sea de gran utilidad esta herramienta.
 
-Puedes comprarme de un café :
+Puedes comprarme un café :
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B356BR4)
+
+Al ayudarme podrás llevar más lejos mi creatividad.
 
 ## Repositorios
 
