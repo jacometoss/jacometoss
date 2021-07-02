@@ -18,5 +18,4 @@ Puedes comprarme un café :
 | 2    | **ClarkePark** : El librería ClarkePark sirve para obtener los diferentes marcos de referencia, Park (dq0) & Clarke (α, *β* ), también es posible realizar una transformación entre los propios marcos de referencia. | [ClarkePark](https://clarkepark.readthedocs.io/)             |
 | 3    | **kElectric** : es una librería hecha en el lenguaje de programación Python y fue creada con la finalidad de acortar el tiempo en el dimensionamiento de conductores eléctricos u obtención de las secciones de los conductores de una instalación eléctrica. | [kElectric](https://pyews.readthedocs.io/)                   |
 
- 
-
+ ## Libros Publicados
