@@ -10,15 +10,14 @@ Puedes comprarme un café :
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B356BR4)
 
-Al ayudarme podrás llevar más lejos mi creatividad.
-
 ## Repositorios
 
 | Id   | Repositorio                                                  | Enlace                                                       |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    | **Runge_Kutta_4th_6th** : En este repositorio encontrarás el código en SCILAB del los métodos de integración RK4, RK6 y Trapezoidal, lo novedoso de estas líneas de código son que puedes resolver múltiples ecuaciones diferenciales y es ideal para obtener parámetros de máquinas eléctricas. | [Repositorio](https://github.com/jacometoss/Runge_Kutta_4th_6th) |
+| 1    | **Runge_Kutta_4th_6th** : En este repositorio encontrarás el código en SCILAB del los métodos de integración RK4, RK6 y Trapezoidal, lo novedoso de estas líneas de código son que puedes resolver múltiples ecuaciones diferenciales y es ideal para obtener parámetros de máquinas eléctricas. | [Link de descarga](https://github.com/jacometoss/Runge_Kutta_4th_6th) |
 | 2    |                                                              |                                                              |
 |      |                                                              |                                                              |
 
  
+
 
