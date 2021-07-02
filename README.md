@@ -4,8 +4,6 @@
 
 ​	Los métodos de Runge-Kutta (RK) son un conjunto de métodos iterativos (implícitos y explícitos) para la aproximación de soluciones de ecuaciones diferenciales ordinarias. En esta documentación se muestra el de cuarto y sexto orden. Otro método agregado es la  Regla Trapezoidal que puede ser explicito. Para diferenciar los métodos de solución explicito e implicito  se agregan los dos puntos siguientes:
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="jacometoss" data-color="#a1d98c" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
-
 ```tex
 Autor : Marco Polo Jácome Toss	
 Fecha de creación :  12 de Septiembre del 2017
