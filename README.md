@@ -12,12 +12,10 @@ Puedes comprarme un café :
 
 ## Repositorios
 
-| Id   | Repositorio                                                  | Enlace                                                       |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    | **Runge_Kutta_4th_6th** : En este repositorio encontrarás el código en SCILAB del los métodos de integración RK4, RK6 y Trapezoidal, lo novedoso de estas líneas de código son que puedes resolver múltiples ecuaciones diferenciales y es ideal para obtener parámetros de máquinas eléctricas. | [Link de descarga](https://github.com/jacometoss/Runge_Kutta_4th_6th) |
-| 2    |                                                              |                                                              |
-|      |                                                              |                                                              |
+| Id   | Repositorio                                                  | Enlace                                                   |
+| ---- | ------------------------------------------------------------ | -------------------------------------------------------- |
+| 1    | **Runge_Kutta_4th_6th** : En este repositorio encontrarás el código en SCILAB del los métodos de integración RK4, RK6 y Trapezoidal, lo novedoso de estas líneas de código son que puedes resolver múltiples ecuaciones diferenciales y es ideal para obtener parámetros de máquinas eléctricas. | [RK4](https://github.com/jacometoss/Runge_Kutta_4th_6th) |
+| 2    | **ClarkePark** : El libaría ClarkePark sirve para obtener los diferentes marcos de referencia, Park (dq0) & Clarke (α, *β* ), también es posible realizar una transformación entre los propios marcos de referencia. | [ClarkePark](https://clarkepark.readthedocs.io/)         |
+|      |                                                              |                                                          |
 
  
-
-
