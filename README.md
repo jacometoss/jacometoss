@@ -3,7 +3,7 @@
 # **Runge-Kutta  y Regla Trapezoidal**
 
 ​	Los métodos de Runge-Kutta (RK) son un conjunto de métodos iterativos (implícitos y explícitos) para la aproximación de soluciones de ecuaciones diferenciales ordinarias. En esta documentación se muestra el de cuarto y sexto orden. Otro método agregado es la  Regla Trapezoidal que puede ser explicito. Para diferenciar los métodos de solución explicito e implicito  se agregan los dos puntos siguientes:
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B356BR4)
 ```tex
 Autor : Marco Polo Jácome Toss	
 Fecha de creación :  12 de Septiembre del 2017
