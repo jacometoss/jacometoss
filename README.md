@@ -10,7 +10,7 @@ Puedes comprarme un café :
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B356BR4)
 
-## Repositorios
+## Lista de repositorios
 
 | Id   | Repositorio                                                  | Documentación                                                |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
