@@ -8,6 +8,8 @@ La vida es como una batería y en cada momento uno va perdiendo una pequeña par
 
 Puedes comprarme un café :
 
+Este tipo de donativos son para mejorar y actualizar los repositorios.
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B356BR4)
 
 ## Lista de repositorios
