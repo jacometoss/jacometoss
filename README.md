@@ -2,11 +2,11 @@
 
 En esta sección encontrarás todos los repositorios en los que trabajo constantemente, los lenguajes de programación que uso con más frecuencia son : Python, C#, C++, Js, Php, Scilab entro otros.  
 
-**¿Te gusta estOS proyecto?, puedes apoyarme mediante**
+**¿Te gusta estOS proyecto?, puedes apoyarme mediante un donativo**
 
 La vida es como una batería y en cada momento uno va perdiendo una pequeña parte de esta cada día, puedes apoyarme en el desarrollo de este proyecto y motivar aún más mi creatividad para que sea de gran utilidad esta herramienta.
 
-Puedes comprarme un café :
+Puedes comprarme un café en forma simbólica como donatvo :
 
 Este tipo de donativos son para mejorar y actualizar los repositorios.
 
