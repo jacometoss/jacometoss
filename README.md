@@ -18,7 +18,6 @@ Este tipo de donativos son para mejorar y actualizar los repositorios.
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1    | [**Runge_Kutta_4th_6th**](https://github.com/jacometoss/Runge_Kutta_4th_6th): En este repositorio encontrarás el código en SCILAB del los métodos de integración RK4, RK6 y Trapezoidal, lo novedoso de estas líneas de código son que puedes resolver múltiples ecuaciones diferenciales y es ideal para obtener parámetros de máquinas eléctricas. | [Rk4 & Rk6](https://k-denveloper.blogspot.com/metodos-de-integracion-de-ecuaciones) |
 | 2    | **ClarkePark** : El librería ClarkePark sirve para obtener los diferentes marcos de referencia, Park (dq0) & Clarke (α, *β* ), también es posible realizar una transformación entre los propios marcos de referencia. | [ClarkePark](https://clarkepark.readthedocs.io/)             |
-
 | 3    | **SELisp** : son aplicaciones desglosadas en módulos para la plataforma AutoCAD / Draftsight bajo su estándar de código actual y tienen como finalidad facilitar el desarrollo de un cálculo eléctrico obteniendo resultados al instante con una corta memoria descriptiva. | [SELisp](https://jacometoss.github.io/SELisp/)               |
 
  
