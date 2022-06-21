@@ -1,6 +1,6 @@
 # :radioactive: Bienvenido a este repositorio :radioactive:
 
-En esta sección encontrarás todos los repositorios en los que trabajo constantemente y los lenguajes de programación que uso con más frecuencia son : Python, C#, C++, Js, Php, Scilab entro otros.  
+En esta sección encontrarás todos los repositorios en los que trabajo constantemente y los lenguajes de programación que uso con más frecuencia son : Python, C#, C++, Js, Php, Scilab entre otros.  
 
 [![Jacometoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacometoss)](https://github.com/anuraghazra/github-readme-stats)
 
