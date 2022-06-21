@@ -2,6 +2,8 @@
 
 En esta sección encontrarás todos los repositorios en los que trabajo constantemente y los lenguajes de programación que uso con más frecuencia son : Python, C#, C++, Js, Php, Scilab entro otros.  
 
+[![Jacometoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacometoss)](https://github.com/anuraghazra/github-readme-stats)
+
 **¿Te gusta estOS proyecto?, puedes apoyarme mediante un donativo**
 
 La vida es como una batería y en cada momento uno va perdiendo una pequeña parte de esta cada día, puedes apoyarme en el desarrollo de este proyecto y motivar aún más mi creatividad para que sea de gran utilidad esta herramienta.
