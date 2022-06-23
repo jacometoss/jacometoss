@@ -10,8 +10,7 @@ La vida es como una batería y en cada momento uno va perdiendo una pequeña par
 
  [![Jacometoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacometoss)](https://github.com/anuraghazra/github-readme-stats)
 
-
-Puedes comprar un café en forma simbólica como donatvo, este tipo de donativos son para mejorar y actualizar los repositorios.
+## Donativos
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B356BR4)
 
