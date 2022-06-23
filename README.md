@@ -13,8 +13,7 @@ La vida es como una batería y en cada momento uno va perdiendo una pequeña par
  [![Jacometoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacometoss)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Lista de repositorios
-
+## Repositorios
 | Id   | Repositorio                                                  | Documentación                                                |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1    | [**Runge_Kutta_4th_6th**](https://github.com/jacometoss/Runge_Kutta_4th_6th): En este repositorio encontrarás el código en SCILAB del los métodos de integración RK4, RK6 y Trapezoidal, lo novedoso de estas líneas de código son que puedes resolver múltiples ecuaciones diferenciales y es ideal para obtener parámetros de máquinas eléctricas. | [Rk4 & Rk6](https://k-denveloper.blogspot.com/2021/07/metodos-de-integracion-de-ecuaciones.html) |
