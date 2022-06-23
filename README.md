@@ -6,13 +6,12 @@ En esta sección encontrarás todos los repositorios en los que trabajo constant
 
 La vida es como una batería y en cada momento uno va perdiendo una pequeña parte de esta cada día, puedes apoyarme en el desarrollo de este proyecto y motivar aún más mi creatividad para que sea de gran utilidad esta herramienta.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B356BR4)
+
 ## Estadísticas
 
  [![Jacometoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacometoss)](https://github.com/anuraghazra/github-readme-stats)
 
-## Donativos
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B356BR4)
 
 ## Lista de repositorios
 
