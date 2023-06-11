@@ -1,10 +1,12 @@
 # Bienvenido
 
 En esta sección encontrarás todos los repositorios en los que trabajo constantemente y los lenguajes de programación que uso con más frecuencia algunos de estos son: Python, C#, C++, Js, Php, Scilab entre otros.  
-
+Cancel changes
 **¿Te gustan estos proyectos?, puedes apoyarme mediante un donativo**
 
 La vida es como una batería y en cada momento uno va perdiendo una pequeña parte de esta cada día, puedes apoyarme en el desarrollo de este proyecto y motivar aún más mi creatividad para que sea de gran utilidad esta herramienta.
+
+## Donaciones 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B356BR4)
 
